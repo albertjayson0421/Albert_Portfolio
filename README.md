@@ -150,12 +150,12 @@ If you'd like to use this template for your own portfolio website, you are welco
 ### Attribution Requirements
 
 1. **Required Attribution**:
-   - You must maintain the original credit in the footer: "Original design by [Gan Hong Jian](https://github.com/ganhj909)"
+   - You must maintain the original credit in the footer: "Original design by [Albert Jayson Arguelles](https://github.com/albertjayson0421)"
    - Keep the attribution link in the README
 
 2. **GitHub Repository**:
    - If you fork or clone this repository, please star the original repository
-   - Include a clear statement in your README indicating that your project is based on Gan Hong Jian's portfolio template
+   - Include a clear statement in your README indicating that your project is based on Albert Jayson Arguelles's portfolio template
 
 3. **Customization Requirements**:
    - Change the personal information to your own
@@ -172,13 +172,13 @@ If you'd like to use this template for your own portfolio website, you are welco
 
 For your README:
 ```markdown
-This portfolio is based on [Gan Hong Jian's Portfolio Template](https://github.com/ganhj909/portfolio-website), 
+This portfolio is based on [Albert Jayson Arguelles's Portfolio Template](https://github.com/albertjayson0421/Albert_Portfolio), 
 customized with my personal information and projects.
 ```
 
 For your website footer:
 ```html
-Design inspired by <a href="https://github.com/ganhj909" target="_blank" rel="noopener noreferrer">Gan Hong Jian</a>
+Design inspired by <a href="https://github.com/albertjayson0421" target="_blank" rel="noopener noreferrer">Albert Jayson Arguelles</a>
 ```
 
 ## Deployment
@@ -200,7 +200,7 @@ For other platforms, refer to the [Next.js deployment documentation](https://nex
 
 ## Credits
 
-- Design & Development: [Gan Hong Jian](https://github.com/ganhj909)
+- Design & Development: [Albert Jayson Arguelles](https://github.com/albertjayson0421)
 - UI Components: [shadcn/ui](https://ui.shadcn.com/)
 - Icons: [Lucide React](https://lucide.dev/)
 - Animation: [Framer Motion](https://www.framer.com/motion/)
@@ -212,4 +212,4 @@ This project is available for personal and educational use with required attribu
 
 ---
 
-© 2025 Gan Hong Jian. All Rights Reserved.
+© 2025 Albert Jayson Arguelles. All Rights Reserved.
